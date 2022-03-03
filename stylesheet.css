@@ -1,0 +1,31 @@
+h1 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+}
+
+.buttons {
+  padding: 0em, 2em, 0em, 2em;
+  padding-inline-start: 0px;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+}
+
+.buttons li {
+  list-style: none;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width: 100%;
+  line-height: 40px;
+}
+
+.buttons li a {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+  color: #191919;
+  text-decoration: none;
+  display: block;
+}
+
+.buttons li a:hover {
+  color: #29bdc1;
+}
