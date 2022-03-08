@@ -68,6 +68,10 @@
   display: block;
 }
 
+.timeline .box .container .cards .card a:visited {
+  text-decoration: none;
+}
+
 .timeline .box .container .cards .card:hover {
   box-shadow: 0 8px 16px 0 rgba(41, 189, 193, 0.3);
 }
