@@ -24,6 +24,14 @@ h1 {
   color: #191919;
   text-decoration: none;
   display: block;
+  display: flex;
+  display: -webkit-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.buttons li a svg {
+  margin-right: 4px;
 }
 
 .buttons li a:hover {
